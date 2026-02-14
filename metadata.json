@@ -1,0 +1,9 @@
+
+{
+  "name": "Aspen Fashion Doublewide",
+  "description": "Global paparazzi fashion intelligence and cross-city trend mapping.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
